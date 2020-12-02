@@ -8,9 +8,9 @@ This code was originally provided to me for refactoring and conversion to semant
 
 ## Website Screenshots
 
-![Main Page](/develop\assets\images\MainPage.jpg?raw=true "Main Page")
+![Main Page](\develop\assets\images\MainPage.jpg?raw=true "Main Page")
 
-![Second Page](/develop\assets\images\SecondPage.jpg?raw=true "Second Page")
+![Second Page](\develop\assets\images\SecondPage.jpg?raw=true "Second Page")
 
 
 
